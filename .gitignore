@@ -1,0 +1,15 @@
+build/
+__pycache__/
+.runtime/
+python-runtime.zip
+planner.sqlite3*
+.vs/
+CMakeFiles/
+CMakeUserPresets.json
+*.user
+*.ncb
+*.suo
+*.vcxproj.user
+.env
+.env.*
+!.env.example
